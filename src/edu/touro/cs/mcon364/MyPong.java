@@ -37,7 +37,7 @@ public class MyPong extends JFrame {
                 //verySlowMethod();
             }
         });
-        t.start(); // not t.run
+        t.start(); // not to.run
     }
 
 //    private void verySlowMethod() {
